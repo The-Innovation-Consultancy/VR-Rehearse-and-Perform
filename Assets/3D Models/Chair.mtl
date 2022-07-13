@@ -1,0 +1,32 @@
+newmtl Ligne_Roset_Sellier_Chair_mat1_01SG
+illum 4
+Kd 0.00 0.00 0.11
+Ka 0.71 0.71 0.71
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Ligne_Roset_Sellier_Chair_mat1_01SG1
+illum 4
+Kd 0.12 0.12 0.12
+Ka 0.12 0.12 0.12
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Ligne_Roset_Sellier_Chair_mat1_01SG2
+illum 4
+Kd 0.04 0.04 0.04
+Ka 0.04 0.04 0.04
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Ligne_Roset_Sellier_Chair_mat1_02SG
+illum 4
+Kd 0.39 0.39 0.39
+Ka 0.39 0.39 0.39
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
